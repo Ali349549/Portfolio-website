@@ -42,7 +42,7 @@ export const About = () => {
                     <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                         <h3 className="text-xl font-bold mb-4"> 🏫 Education </h3>
                             <a href = "https://www.torontomu.ca/" target="_blank" rel="noopener noreferrer">
-                                <img src = "/public/tmu.jpg" className = "w-32 h-32 object-contain mx-auto mb-2"></img>
+                                <img src = "/tmu.jpg" className = "w-32 h-32 object-contain mx-auto mb-2"></img>
                             </a>
                             <ul className="list-disc list-inside text-gray-300 space-y-2">
                                 <li> <strong> B.S. in Computer Science </strong> - Toronto Metropolitan University (2022-2027) </li>
@@ -52,7 +52,7 @@ export const About = () => {
                     <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
                         <h3 className="text-xl font-bold mb-4"> 💼 Work Experience </h3>
                         <a href = "https://markhammasjid.ca/" target="_blank" rel="noopener noreferrer">
-                                <img src = "/public/ISM.jpg" className = "w-64 h-32 object-contain mx-auto mb-2"></img>
+                                <img src = "/ISM.jpg" className = "w-64 h-32 object-contain mx-auto mb-2"></img>
                         </a>
                         <div className="space-y-4 text-gray-300">
                             <h4 className="font-semibold">Summer Intern - I.S.M</h4>
