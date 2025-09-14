@@ -5,7 +5,7 @@ export const Home = () => {
     return <section id ="Home" className = "min-h-screen flex items-center justify-center relative">
         <RevealOnScroll>
             <div className="text-center text-white px-4">
-                <img src = "/src/assets/Ali.jpg" alt = "Ali Israr" className = "w-64 h-64 mx-auto mb-6 rounded-full object-cover border-4 border-blue-500" />
+                <img src = "/public/Ali.jpg" alt = "Ali Israr" className = "w-64 h-64 mx-auto mb-6 rounded-full object-cover border-4 border-blue-500" />
                 <h1 className="text-4xl font-bold mb-2">Hi, I'm Ali Israr</h1>
                 <p className="text-lg text-gray-300">
                     I'm a computer engineer passionate about building smart, efficient, and reliable digital solutions.
